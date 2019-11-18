@@ -1,0 +1,229 @@
+h1, h2 {
+  font-family: 'DM Serif Display' , serif; }
+
+h3, h4, h5, h6, p {
+  font-family: 'PT Sans', sans-serif; }
+
+h1 {
+  font-size: 35px;
+  font-weight: 700;
+  line-height: 1.43; }
+
+h2 {
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 1.33; }
+
+h3 {
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 1.5; }
+
+h4 {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.67; }
+
+h5 {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.88; }
+
+p {
+  font-size: 14px; }
+
+h6 {
+  font-size: 12px;
+  font-weight: 400; }
+
+header {
+  margin-top: 2rem; }
+  header .navbar {
+    margin-left: 3rem;
+    margin-right: 3rem;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    border-bottom: 1px solid #eaeaea;
+    margin-bottom: 4rem; }
+    header .navbar .logo {
+      margin-bottom: 1rem;
+      margin-left: 1rem; }
+  header .bg-light {
+    background-color: #ffffff !important; }
+  header .navbar-nav {
+    margin-left: auto; }
+  header .nav-link {
+    border-right: 1px solid #eaeaea;
+    line-height: 1px;
+    margin-right: 20px;
+    font-weight: 500;
+    margin-bottom: 1rem; }
+    header .nav-link p {
+      margin-bottom: 0rem; }
+  header .navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 1.5rem; }
+
+body {
+  width: 100%; }
+
+.left h6 {
+  color: #777777;
+  line-height: 29px;
+  font-weight: 50;
+  font-size: 20px; }
+
+.left h1 {
+  font-size: 4.5rem; }
+
+.left .button {
+  background-color: #000000;
+  color: #fff;
+  border: none;
+  padding: 11px 8px 11px 8px;
+  width: 212px;
+  height: 49px; }
+  .left .button img {
+    margin-left: 5rem; }
+
+.right img {
+  width: 100%;
+  height: 495px; }
+
+.benefit-cnt {
+  margin-top: 10rem;
+  margin-bottom: 10rem; }
+  .benefit-cnt h1 {
+    font-size: 25px; }
+  .benefit-cnt h6 {
+    color: #777;
+    line-height: 1.5; }
+  .benefit-cnt p {
+    font-size: 17px;
+    color: #777; }
+
+.timeline-cnt {
+  margin-top: 10rem;
+  margin-bottom: 10rem;
+  background-color: #000000;
+  color: #fff;
+  width: 100%;
+  padding: 5rem; }
+  .timeline-cnt h1 {
+    font-size: 25px; }
+  .timeline-cnt h6 {
+    color: #777;
+    line-height: 1.5; }
+  .timeline-cnt p {
+    font-size: 17px;
+    color: #777; }
+
+.card-a {
+  padding: 5rem; }
+  .card-a h6 {
+    font-size: 14px;
+    color: #777;
+    line-height: 1.7; }
+
+.card-b {
+  padding: 5rem;
+  margin-left: 4rem; }
+  .card-b h6 {
+    font-size: 14px;
+    color: #777;
+    line-height: 1.7; }
+
+.courses {
+  margin-left: .2rem; }
+  .courses h6 {
+    color: #777;
+    line-height: 1.5; }
+  .courses p {
+    font-size: 17px;
+    color: #777; }
+
+.button {
+  background-color: #000;
+  font-weight: 600;
+  border: none;
+  color: #fff;
+  border: none;
+  padding: 11px 8px 11px 8px;
+  width: 212px;
+  height: 49px; }
+  .button img {
+    margin-left: 1rem; }
+
+.more-cnt {
+  background-color: #000;
+  color: #fff;
+  padding: 3rem;
+  margin-top: 7rem; }
+  .more-cnt .button {
+    background-color: #fff;
+    font-weight: 600;
+    border: none;
+    color: #000;
+    border: none;
+    padding: 11px 8px 11px 8px;
+    width: 212px;
+    height: 49px; }
+    .more-cnt .button img {
+      margin-left: 1rem; }
+  .more-cnt .hire-btn {
+    background-color: #000;
+    font-weight: 600;
+    color: #fff;
+    border-color: #fff;
+    padding: 11px 8px 11px 8px;
+    width: 212px;
+    height: 49px; }
+    .more-cnt .hire-btn img {
+      margin-left: 1rem; }
+  .more-cnt .hiring {
+    padding-left: 15rem;
+    border-right: 1px solid #eaeaea;
+    text-align: right;
+    padding-right: 1rem; }
+    .more-cnt .hiring p {
+      color: #777;
+      font-size: 15px;
+      text-align: right; }
+  .more-cnt .product {
+    padding-left: 1.5rem;
+    text-align: left; }
+    .more-cnt .product .product-btn {
+      background-color: #fff;
+      font-weight: 600;
+      color: #000;
+      border-color: #fff;
+      padding: 11px 8px 11px 8px;
+      width: 212px;
+      height: 49px; }
+      .more-cnt .product .product-btn img {
+        margin-left: 1rem; }
+    .more-cnt .product p {
+      color: #777;
+      font-size: 15px;
+      text-align: left; }
+
+footer .left img {
+  margin-left: -2rem;
+  opacity: .3; }
+
+footer .right a {
+  color: #777;
+  line-height: 1px;
+  border-right: 1px solid #eaeaea;
+  padding-right: 1rem;
+  padding-left: 1rem; }
+
+footer .media-icons {
+  margin-left: 321px; }
+
+footer .fab {
+  padding-right: 2rem;
+  color: #777; }
+
+footer .copyright {
+  opacity: .3; }

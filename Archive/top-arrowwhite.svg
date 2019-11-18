@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22.223" height="10.016" viewBox="0 0 22.223 10.016">
+    <defs>
+        <style>
+            .cls-1{fill:#fff}
+        </style>
+    </defs>
+    <path id="top-arrow" d="M30.2 4.606L25.759.169a.575.575 0 1 0-.813.813L28.4 4.441H8.722a.578.578 0 0 0 0 1.156H28.4l-3.459 3.45a.577.577 0 0 0 .818.813L30.2 5.419a.577.577 0 0 0 0-.813z" class="cls-1" transform="translate(-8.144)"/>
+</svg>
